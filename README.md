@@ -1,10 +1,7 @@
-# signin-vue
-
+# electron 打卡器
 
 ```
-npm i -g @vue/cli
-vue create my-project
-cd my-project
-vue add electron-builder
-# npm i -D electron
+npm i
+
+npm run electron:serve
 ```
